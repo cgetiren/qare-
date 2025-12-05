@@ -1,0 +1,7 @@
+{
+  "name": "Qare",
+  "description": "Canlı deprem takibi, toplanma alanları haritası, acil durum çantası ve hızlı iletişim asistanı.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
